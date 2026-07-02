@@ -1,0 +1,9 @@
+# Whitelist — senders that are NEVER archived, no matter how they're classified.
+#
+# To use it: copy this file to `whitelist.txt` and add your own addresses,
+# one per line. Lines starting with # are comments and are ignored.
+# If you don't create a whitelist.txt, that's fine — nothing is whitelisted.
+
+# examples:
+# noreply@commonapp.org        # Common App: application status emails
+# admissions@mydreamschool.edu # a school you actually care about

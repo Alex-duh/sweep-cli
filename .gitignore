@@ -1,0 +1,18 @@
+# OAuth secrets — NEVER commit these. Each user brings their own.
+credentials.json
+token.json
+
+# Your personal data — stays on your machine
+whitelist.txt
+seen_ids.txt
+sweep_log.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+
+# macOS
+.DS_Store
