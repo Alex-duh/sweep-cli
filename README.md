@@ -13,6 +13,10 @@
   <a href="LICENSE"><img alt="License: GPL-3.0" src="https://img.shields.io/badge/License-GPLv3-blue.svg" /></a>
 </p>
 
+<p align="center">
+  <a href="https://trysweep.vercel.app"><b>🌐&nbsp; Prefer no setup? Try the hosted web app&nbsp; →</b></a>
+</p>
+
 ---
 
 If you're a student, your inbox is probably buried under "Students like you are discovering State University!" emails. Sweep finds those and archives them — they leave your inbox but stay in **All Mail**, fully searchable, so nothing is ever lost.
